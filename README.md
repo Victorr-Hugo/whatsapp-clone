@@ -18,3 +18,4 @@ This is a full-stack application built using React, Firebase, and Tailwind CSS. 
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 
 ## ScreenShots
+![Homepage screenshot](https://raw.githubusercontent.com/Victorr-Hugo/whatsapp-clone/main/showcase/screencapture-localhost-3000-2023-02-12-23_39_41.png)
